@@ -22,3 +22,11 @@ My approach to solving this problem involves various NLP techniques and machine 
 
 3. **Model Evaluation:** I used the F1 score as the evaluation metric since it is specified in the competition guidelines.
 
+
+Results
+My final submission achieved an F1 score of 0.79895 on the test dataset. You can find more details in the competition's [leaderboard](https://www.kaggle.com/competitions/nlp-getting-started/leaderboard).
+
+Discussion
+If you have any questions, suggestions, or would like to discuss the solution, feel free to reach out to me. You can also find me on Kaggle and connect with me there.
+
+Happy coding and good luck with your NLP projects!
